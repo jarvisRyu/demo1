@@ -5,5 +5,9 @@ public class PocketMon {
 
         int i =0;
 
+
+
+        System.out.println("PocketMon.main");
+
     }
 }
